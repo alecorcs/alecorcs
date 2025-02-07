@@ -3,7 +3,7 @@
 ## 🌐 Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-corral-010b10336/)
 
-## 🚀 Technologies and Tools
+## 🚀 Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
