@@ -31,7 +31,7 @@ Desarrollador de Aplicaciones Multiplataforma con pasión por la tecnología, la
 
 ## 🧪 Proyectos destacados
 
-- **Kamtur** – Aplicación móvil para gestión de turnos entre compañeros (Kotlin, SQLite).
+- **Kamtur** – Aplicación móvil para gestión de turnos entre compañeros (Kotlin, Firebase).
 - **App multiplataforma** – Desarrollo con React Native, despliegue en tiendas, builds con GitHub + Expo.
 
 ---
