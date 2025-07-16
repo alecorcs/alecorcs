@@ -31,6 +31,7 @@ Desarrollador de Aplicaciones Multiplataforma con pasión por la tecnología, la
 
 ## 🧪 Proyectos destacados
 
+- **Buena Pinta** – Aplicación móvil para saber que cervezas has probado (TypeScript, React Native, Expo, Firebase).
 - **Kamtur** – Aplicación móvil para gestión de turnos entre compañeros (Kotlin, Firebase).
 - **App multiplataforma** – Desarrollo con React Native, despliegue en tiendas, builds con GitHub + Expo.
 
